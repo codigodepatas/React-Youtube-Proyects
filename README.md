@@ -1,7 +1,7 @@
 # 01: Código de patas | Ejercicios
 
 
-## **Pasos básicos para realizar la prueba básica que esta hecho para gente básica e inexperta, sin mucho conociemiento, ni mucha lógica y si lograste tu primer hola mundo, esto es pan comido.**
+## **Pasos básicos para realizar esta prueba básica que esta hecho para gente inexperta, sin mucho conociemiento, ni mucha lógica y si lograste tu primer hola mundo, esto es pan comido.**
 
 🔹 Para poder ejecutar los `test` de esta homework, es necesario que abramos la terminal ubicados dentro de la carpeta `codigodepatas - 01`.
 
