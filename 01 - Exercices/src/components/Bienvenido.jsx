@@ -1,5 +1,6 @@
 import React from "react";
 
+
 //Completar las variables ↓
 const subscriberName = "";
 const stack = [];
@@ -7,6 +8,7 @@ const alerts = {};
 
 //crear la función Bienvenido ↓
 function Bienvenido() {
+
   return(
     <></>
   )

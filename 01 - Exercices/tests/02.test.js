@@ -40,8 +40,10 @@ describe('02 | Componente "Botones"', () => {
   it("Los botones deben tener un evento onClick que ejecuten un alert con cualquier texto", () => {
     const botonM1 = divBotones.find("button").at(0);
     const botonM2 = divBotones.find("button").at(1);
+    const botonM3 = divBotones.find("button").at(2);
     expect(botonM1.props().onClick).toBeTruthy();
     expect(botonM2.props().onClick).toBeTruthy();
+    expect(botonM3.props().onClick).toBeTruthy();
   });
 
   it("Dentro del componente Bienvenido, debe renderizarse el componente Botones", () => {
