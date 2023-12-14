@@ -61,14 +61,14 @@ Además:
 
 ### **Nuestro primer componente funcional de React**
 
-🔹 En el archivo `Bienvenido.jsx` encontrarás definida la función de un componente funcional de React. Dentro de ella aplicaremos la magia de React para combinar los temas vistos en clase.
+🔹 En el archivo `Bienvenido.jsx` encontrarás definida la función de un componente funcional de React. 
 
 🔹 Lo que hay que hacer:
 
 1. Que la función renderice un div.
 2. Dentro de este div, crea la etiqueta correspondiente para un título h1 (puedes colocar el texto que desees).
 3. Encontrarás una constante de tipo string llamada `subscriberName`, asígnale un texto con tu nombre. Dicha constante debe ser renderizada dentro de una etiqueta h2.
-4. Encontrarás una constante llamada `stack` de tipo array, con 5 elementos. Los elementos de este arreglo deben renderizarse en una lista desordenada.
+4. Encontrarás una constante llamada `stack` de tipo array, que debe tener 5 elementos. Los elementos de este arreglo deben renderizarse en una lista desordenada.
 
 > Tip: para recorrer el arreglo y retornar elementos de acuerdo a su contenido, puedes usar el método `map`.
 
@@ -88,7 +88,7 @@ Además:
 
 🔹 Lo que hay que hacer:
 
-1. Crea un componente de clase llamado `Botones.jsx` (click derecho sobre la carpeta components --> Nuevo archivo --> `Botones.jsx`)
+1. Crea un componente funcional llamado `Botones.jsx` (click derecho sobre la carpeta components --> Nuevo archivo --> `Botones.jsx`)
 2. Importa React desde 'react'.
 3. Crea la función llamada `Botones`.
 4. El componente debe renderizar un div.

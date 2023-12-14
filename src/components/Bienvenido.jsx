@@ -8,13 +8,11 @@ const alerts = {};
 //crear la función Bienvenido ↓
 function Bienvenido() {
   return(
-      <div>
-        <h1>@codigodepatas</h1>
-      </div>
+    <></>
   )
 }
 
-//expotar las 3 constantes ↓
+//expotar las 3 constantes para que pasen los tests↓
 
 //exportar el componente ↓
 export default Bienvenido;
