@@ -30,7 +30,7 @@ Ingresando a <http://localhost:3000> desde el navegador, podremos ir viendo en t
 ---
 ### **ESTRUCTURA**
 
-🔹 Dentro de la carpeta `codigodepatas - 01`, vas a encontrar la siguiente estructura:
+🔹 Dentro de la carpeta `01 - Exercices`, vas a encontrar la siguiente estructura:
 
 -  Una carpeta llamada **img**
 -  Una carpeta llamada **public**
@@ -139,4 +139,6 @@ Ahora necesitamos conectar estos dos componentes, ¿Cómo lo hacemos? Muy fácil
 ## **🔎 Recursos adicionales**
 
 -  Documentación [**Intro to React**](https://reactjs.org/tutorial/tutorial.html)
+-  Dar amor [**YoutubeChanel**](https://www.youtube.com/@codigodepatas)
+
 
