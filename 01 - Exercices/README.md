@@ -3,7 +3,7 @@
 
 ## **Pasos básicos para realizar esta prueba básica que esta hecho para gente inexperta, sin mucho conociemiento, ni mucha lógica y si lograste tu primer hola mundo, esto es pan comido.**
 
-🔹 Para poder ejecutar los `test` de esta homework, es necesario que abramos la terminal ubicados dentro de la carpeta `codigodepatas - 01`.
+🔹 Para poder ejecutar los `test` de esta homework, es necesario que abramos la terminal ubicados dentro de la carpeta `01 - Exercices`.
 
 -  Cuando te encuentres en esta carpeta, debes ejecutar el comando
 
